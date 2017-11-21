@@ -1,0 +1,6 @@
+D:\Test\Logger\Logger\bin\Debug\Logger.exe.config
+D:\Test\Logger\Logger\bin\Debug\Logger.exe
+D:\Test\Logger\Logger\bin\Debug\Logger.pdb
+D:\Test\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Test\Logger\Logger\obj\Debug\Logger.exe
+D:\Test\Logger\Logger\obj\Debug\Logger.pdb
